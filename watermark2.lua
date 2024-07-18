@@ -55,7 +55,7 @@
         TextLabel_2.Position = UDim2.new(0.342999995, 0, 0.625999987, 0)
         TextLabel_2.Size = UDim2.new(0, 275, 0, 23)
         TextLabel_2.Font = Enum.Font.Gotham
-        TextLabel_2.Text = "by @stavexploitz | version 1.53"
+        TextLabel_2.Text = "by @stavexploitz | version nextgen"
         TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
         TextLabel_2.TextScaled = true
         TextLabel_2.TextSize = 14.000
