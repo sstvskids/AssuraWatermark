@@ -32,8 +32,8 @@
 					TextLabel.Parent = Frame
 					TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 					TextLabel.BackgroundTransparency = 1.000
-					TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
-					TextLabel.BorderSizePixel = 0
+					TextLabel.BorderColor3 = Color3.fromRGB(255, 255, 255)
+					TextLabel.BorderSizePixel = 1
 					TextLabel.Position = UDim2.new(0.342485338, 0, 0.300000072, 0)
 					TextLabel.Size = UDim2.new(0, 275, 0, 50)
 					TextLabel.Font = Enum.Font.GothamBold
