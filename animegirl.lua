@@ -13,7 +13,7 @@ ImageLabel.BorderColor3 = Color3.new(0, 0, 0)
 ImageLabel.BorderSizePixel = 0
 ImageLabel.Position = UDim2.new(0.837289751, 0, 1, 0)
 ImageLabel.Size = UDim2.new(0, 244, 0, 410)
-ImageLabel.Image = "rbxassetid://18597480227"
+ImageLabel.Image = "rbxassetid://18597456253"
 ImageLabel.ScaleType = Enum.ScaleType.Fit
 Anime.ResetOnSpawn = false
 -- Scripts
